@@ -19,7 +19,7 @@ document.addEventListener("DOMContentLoaded", function () {
         "Nitesh Kumar", "Nikita Adhikari", "Pawan Joshi", "Priyansh Bhatt", "Priyanshu Mishra",
         "Rahul Kandpal", "Rahul Kumar", "Rohit Kumar", "Seetaram Sharma", "Shivendra Dubey",
         "Shubham Dey", "Shubham Singh", "Shubh Srivastava", "Sumit Joshi",
-        "Suraj Chandra Paladiya", "Tanuja Rautela", "Vaibhav Dubey", "Vigyat Bisht", "Vivek Singh"
+        "Suraj Chandra Paladiya", "Tanuja Rautela", "Vaibhav Dubey", "Vigyat Bisht", "Vivek Singh" , "Yogita Sharma"
     ];
 
     // ✅ Generate Student List in HTML
